@@ -10,7 +10,7 @@ export default function Home() {
     <div>
        <TriaConnectProvider/>
        <Application/>
-      <Home/>
+      
     </div>
   )
 }
